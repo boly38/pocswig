@@ -31,3 +31,14 @@
 # Debug files
 *.dSYM/
 *.su
+
+# java compiled files
+*.class
+
+# swig results
+MyItem.java
+MyItems.java
+poc_wrap.c
+swigpoc.java
+swigpocJNI.java
+
